@@ -1,7 +1,15 @@
-# relay-chat
+# Multi-Client Chat App Using Relay Client
 
-open the terminal
-##### `npm run start:client` to start the client
+## Motivation: I learn about relay and graphql subscription.
 
-open another terminal and start the server
-##### `npm run start:server` to start the server
+- Tech Stack
+  - React
+  - Relay
+  - Graphql
+  - Styled-Component
+  - Socket IO
+
+# open the terminal
+
+- `npm run start:client` to start the client
+- `npm run start:server` to start the serv
